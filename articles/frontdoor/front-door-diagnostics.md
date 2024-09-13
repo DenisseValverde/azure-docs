@@ -139,7 +139,7 @@ The following example JSON snippet shows a health probe log entry for a failed h
         "httpStatusCode": "400",
         "probeURL": "http://www.example.com:80/",
         "originName": "www.example.com",
-        "originIP": "PublicI:Port",
+        "originIP": "PublicIP:Port",
         "totalLatencyMilliseconds": "141",
         "connectionLatencyMilliseconds": "68",
         "DNSLatencyMicroseconds": "1814"
